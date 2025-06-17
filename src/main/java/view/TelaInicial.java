@@ -16,10 +16,10 @@ public class TelaInicial  extends JFrame {
 
         // Cores claras
 
-        Color azulClaro = new Color(173,216,360);//LigthBlue
+        Color azulClaro = new Color(173,216,230);//LigthBlue
 
-        Color verdeClaro = new Color(101, 198, 15);// LigthGreen
-        Color amareloClaro = new Color(168, 168, 32);//LigthYellow
+        Color verdeClaro = new Color(144, 238, 144);// LigthGreen
+        Color amareloClaro = new Color(255, 255, 224);//LigthYellow
 
         // Painel principal com Layout de Grade (2 linhas , 1 coluna ) para a cor de fundo alterar
 

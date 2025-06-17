@@ -63,6 +63,7 @@ public class TelaCadasatroProduto  extends JFrame {
         add(formPanel,BorderLayout.NORTH);
 
         //---------- Painel de Botões (Centro) ---------
+
         JPanel buttonPanel = new JPanel(new FlowLayout(FlowLayout.CENTER,15,5)); // Centraliza botões
         buttonPanel.setBackground(verdeClaro); // Mesma cor do fundo
 
